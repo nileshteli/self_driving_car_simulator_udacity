@@ -41,7 +41,7 @@ This project uses a CNN model to predict steering angles based on camera images 
 ### 1. Clone or Download this Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/nileshteli/self_driving_car_simulator_udacity.git
 cd simulator-linux
 ```
 
